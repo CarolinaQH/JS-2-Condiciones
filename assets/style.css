@@ -1,0 +1,99 @@
+body {
+    margin: 0px;
+    border: 0px;
+}
+
+.imagen {
+    text-align: center;
+}
+
+h2 {
+    padding: 0px;
+    border: 5px;
+    margin: 5px;
+}
+
+p {
+    font-weight: bold;
+    text-align: center;
+    padding: 0px;
+    border: 5px;
+    margin: 5px;
+   
+}
+
+.container1 {
+    width: 700px;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 30px;
+    border-radius: 5rem;
+}
+
+.container2 {
+    width: 700px;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 30px;
+    border-radius: 5rem;
+}
+
+.container3 {
+    width: 700px;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 30px;
+    border-radius: 5rem;
+}
+
+.logos {
+    width: 100%;
+    margin: auto;
+    padding: auto
+;
+
+}
+
+.row {
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+}
+
+.column {
+    display: grid;
+    padding: 10px;
+}
+
+.aviso {
+    padding: 3px;
+    margin-top: 20px;
+    align-self: center;
+    text-align: center;
+}
+
+.boton {
+    padding: 3px;
+    margin-top: 20px;
+    align-self: center;
+    text-align: center;
+}
+
+.selectores {
+    padding: 3px;
+    margin-top: 20px;
+    align-self: center;
+    text-align: center;
+}
+
+.clave {
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 4px;
+}
+
+.boton2 {
+    padding: 3px;
+    margin-top: 20px;
+    align-self: center;
+    text-align: center;
+}
